@@ -1,4 +1,4 @@
-# Social
+# Doap Social
 
 Contributors: crowdfavorite, alexkingorg
 Tags: comments, facebook, twitter, social, broadcast, import, integrate, integration
